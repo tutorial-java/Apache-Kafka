@@ -1,5 +1,5 @@
 # Apache-Kafka
 | Framework  | Project Example |
 | :--- | :---: |
-| `Springboot`  | 1  |
+| `Springboot`  | 2  |
 | `Quarkus`  | 0  |
